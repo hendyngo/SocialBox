@@ -27,4 +27,8 @@ cd tweetshell
 chmod +x tweetshell.sh
 chmod +x install.sh
 sudo ./install.sh
-cd
+cd SocialBox
+chmod +x SocialBox.sh
+chmod +x install-sb.sh
+./install-sb.sh
+./SocialBox.sh 
