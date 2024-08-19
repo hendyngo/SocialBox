@@ -21,6 +21,6 @@ chmod +x install-sb.sh
 # Authors :
 * facebook  : Imad
 * gmail     : Ha3MrX
-* instagram : thelinuxchoice
+* instagram : thelinuxchoice.
 * Twitter   : thelinuxchoice
 * SocialBox : Belahsan Ouerghi
